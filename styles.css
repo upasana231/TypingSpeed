@@ -9,7 +9,7 @@ body {
     align-items: center;
     height: 100vh;
     transition: background 0.5s, color 0.5s;
-    background-image:url('images/bg.jpg') ;
+    background-image:url('bg.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -134,20 +134,20 @@ body {
   }
   
   .dark-mode {
-    background-image: url('images/bg3.jpg');
+    background-image: url('bg3.jpg');
     background-repeat: no-repeat;
   background-size: cover;
   }
   
   .Background1-mode {
-      background-image: url('images/bg1.jpg');
+      background-image: url('bg1.jpg');
       background-repeat: no-repeat;
     background-size: cover;
 
   }
   
   .Background2-mode {
-    background-image: url('images/bg2.jpg');
+    background-image: url('bg2.jpg');
       background-repeat: no-repeat;
     background-size: cover;
 
